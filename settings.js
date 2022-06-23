@@ -32,7 +32,7 @@
   //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
   global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
   global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-  global.myweb = 'https://api-riychdwayne.herokuapp.com'
+  global.myweb = 'https://github.com/Olvitsme'
   global.region = 'indonesia'
 
   // Set Wm
